@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "16134892519",
+    "firebase_url": "https://arduino-led-1f4c5.firebaseio.com",
+    "project_id": "arduino-led-1f4c5",
+    "storage_bucket": "arduino-led-1f4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16134892519:android:30d50a33e74ad73155eb42",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16134892519-k3pvi7f7o68r0rnb70e1f8jq9e6qs9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUpVfRiTrpxUUovL8xXqCeyRPzP9Knos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16134892519-k3pvi7f7o68r0rnb70e1f8jq9e6qs9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16134892519:android:b87ed64bac0e4c5455eb42",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16134892519-8s09qmvdnf07tv9eqisacc8ebh7qeue1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "d55c9c780e5ab86f016a8ba299ca0561995cef6e"
+          }
+        },
+        {
+          "client_id": "16134892519-k3pvi7f7o68r0rnb70e1f8jq9e6qs9id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUpVfRiTrpxUUovL8xXqCeyRPzP9Knos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16134892519-k3pvi7f7o68r0rnb70e1f8jq9e6qs9id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
